@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -18,8 +18,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://github.com/NFD-cesar/Componente-de-tarjeta]()
-- Live Site URL: [https://nfd-cesar.github.io/Componente-de-tarjeta/]()
+- Live Site URL: [https://nfd-cesar.github.io/Componente-de-tarjeta/](https://nfd-cesar.github.io/Componente-de-tarjeta/)
 
 ## My process
 

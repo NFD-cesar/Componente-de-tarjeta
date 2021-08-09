@@ -1,5 +1,3 @@
-@import url(https://fonts.google.com/specimen/Inter);
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -50,7 +48,6 @@ body {
 .main--information-container h1 {
     padding: 30px 30px 20px;
     font-size: 2.8rem;
-    /* font-weight: 700; */
     line-height: 3rem;
 }
 
@@ -77,4 +74,14 @@ body {
     padding-bottom: 30px;
     color: hsla(0, 0%, 100%, 0.6);
     letter-spacing: 1.1px;
+}
+
+.attribution {
+    text-align: center;
+    color: white;
+}
+
+.attribution a {
+    color: white;
+    padding-bottom: 20px;
 }

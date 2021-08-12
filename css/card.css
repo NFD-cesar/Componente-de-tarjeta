@@ -63,9 +63,8 @@ body {
     letter-spacing: .3px;
 }
 
-.main--additional-information .additional--information h3 {
+.main--additional-information .additional--information h2 {
     font-size: 1.9rem;
-    margin-bottom: 5px;
     letter-spacing: .8px;
 }
 

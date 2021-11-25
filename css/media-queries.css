@@ -1,28 +1,34 @@
 @media (min-width: 920px) {
     .main-container {
         width: 100%;
-        height: 95vh;
+        height: 100vh;
         padding: 0;
         flex-direction: row-reverse;
         justify-content: center;
     }
 
     .main--information-container {
-        max-width: 450px;
+        max-width: 550px;
         max-height: 328px;
-        padding: 60px 50px 23px;
+        padding: 50px 60px 23px 35px;
         text-align: start;
         border-bottom-right-radius: 0;
         border-top-left-radius: 10px;
     }
 
     .main--information-container h1 {
-        padding: 0 0 20px;
-        line-height: 3.4rem;
+        font-size: 4rem;
+        padding: 0 0 12px;
+        margin-bottom: 10px;
+        line-height: 4.5rem;
+        letter-spacing: -1.3px;
     }
 
     .main--information-container p {
-        padding: 0 20px 55px 0;
+        padding: 0 90px 55px 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.6px;
+        line-height: 2.4rem;
     }
 
     .main--additional-information {
@@ -39,7 +45,7 @@
     }
 
     .main--photo {
-        max-width: 450px;
+        max-width: 550px;
         max-height: 328px;
         border-top-left-radius: 0;
         border-bottom-right-radius: 10px;

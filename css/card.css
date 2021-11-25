@@ -8,12 +8,6 @@ html {
     font-size: 62.5%;
 }
 
-main img {
-    width: 100%;
-    position: absolute;
-    opacity: 0.1;
-}
-
 body {
     background-color: hsl(233, 47%, 7%);
     font-family: Inter, Helvetica, sans-serif;

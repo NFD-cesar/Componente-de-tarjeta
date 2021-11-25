@@ -8,12 +8,10 @@ html {
     font-size: 62.5%;
 }
 
-body img {
+main img {
+    width: 100%;
     position: absolute;
     opacity: 0.1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 body {

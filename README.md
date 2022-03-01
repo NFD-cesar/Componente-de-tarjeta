@@ -7,8 +7,8 @@ This is a solution to the [Stats preview card component challenge on Frontend](h
 - [My process](#my-process)
   - HTML & CSS
 - [Author](#author)
-  - Frontend Mentor [NFD César Ramírez](https://www.frontendmentor.io/profile/NFD-cesar)
-  - Twitter [NFD César Ramírez](https://twitter.com/nfd_cesar)
+  - Frontend Mentor: [César Ramírez](https://www.frontendmentor.io/profile/ramez-cesar)
+  - Twitter: [César Ramírez](https://twitter.com/ramez_cesar)
 
 - View the optimal layout depending on their device's screen size
 
@@ -18,7 +18,7 @@ This is a solution to the [Stats preview card component challenge on Frontend](h
 
 ### Links
 
-- Live Site URL: [https://nfd-cesar.github.io/Componente-de-tarjeta/](https://nfd-cesar.github.io/Componente-de-tarjeta/)
+- Live Site URL: [Preview Site](https://ramez-cesar.github.io/Componente-de-tarjeta/)
 
 ## My process
 

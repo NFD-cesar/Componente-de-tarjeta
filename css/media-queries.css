@@ -8,8 +8,10 @@
     }
 
     .main--information-container {
-        min-width: 520px;
-        min-height: 415px;
+        width: 480px;
+        height: 375px;
+        max-width: 520px;
+        max-height: 415px;
         padding: 62px 60px 23px 65px;
         text-align: start;
         border-bottom-right-radius: 0;
@@ -47,8 +49,10 @@
     }
 
     .main--photo {
+        width: 480px;
+        height: 375px;
         max-width: 520px;
-        max-height: 415px;
+        max-height: 383px;
         border-top-left-radius: 0;
         border-bottom-right-radius: 10px;
     }

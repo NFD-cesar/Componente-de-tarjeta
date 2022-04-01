@@ -74,13 +74,3 @@ body {
     color: hsla(0, 0%, 100%, 0.6);
     letter-spacing: 1.1px;
 }
-
-.attribution {
-    text-align: center;
-    color: white;
-}
-
-.attribution a {
-    color: white;
-    padding-bottom: 20px;
-}

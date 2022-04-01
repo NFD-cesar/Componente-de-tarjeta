@@ -7,8 +7,9 @@ This is a solution to the [Stats preview card component challenge on Frontend](h
 - [My process](#my-process)
   - HTML & CSS
 - [Author](#author)
-  - Frontend Mentor: [César Ramírez](https://www.frontendmentor.io/profile/ramez-cesar)
-  - Twitter: [César Ramírez](https://twitter.com/ramez_cesar)
+  - Frontend Mentor: [César Ramez](https://www.frontendmentor.io/profile/ramez-cesar)
+  - Twitter: [César Ramrez](https://twitter.com/ramez_cesar)
+  - Codepe: [César Ramez](https://codepen.io/ramez-cesar)
 
 - View the optimal layout depending on their device's screen size
 
